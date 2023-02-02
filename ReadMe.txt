@@ -1,0 +1,1 @@
+The demo starts the game

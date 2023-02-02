@@ -1,0 +1,2 @@
+Start, GO UP, GO LEFT, grab bloomberg, GO UP, use bloomberg, GO RIGHT, GO DOWN, GO DOWN, GO LEFT, GO RIGHT, GO UP, GO UP, GO RIGHT, GO UP, GO UP, GO UP, GO DOWN, GO DOWN, GO UP, GO UP, GO DOWN, GO DOWN, GO DOWN, END, 
+Start, 10, 10, 10, 10, 10, 13, 13, 13, 13, 13, 13, 13, 13, 13, 13, 13, 13, 13, 13, 13, 13, 13, 13, END, 

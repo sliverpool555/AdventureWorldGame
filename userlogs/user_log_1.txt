@@ -1,0 +1,2 @@
+Start, GO UP, GO UP, GO LEFT, GO RIGHT, GO DOWN, GO DOWN, END, 
+Start, 10, 10, 10, 10, 10, 10, END, 
